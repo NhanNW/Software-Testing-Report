@@ -18,7 +18,7 @@ Dự án kiểm thử thực tế cho website thương mại điện tử MaiNgu
 
 ## 3. Techniques & Tools
 - **Testing Techniques:** Boundary Value Analysis, Equivalence Partitioning.
-- **Documentation:** Microsoft Word, Microsoft Excel.
+- **Documentation:** Microsoft Word.
 - **Automation Tools:** Selenium IDE (Basic Record & Playback).
 
 ## 4. Detailed Documentation
